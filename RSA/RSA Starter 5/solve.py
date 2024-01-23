@@ -10,5 +10,5 @@ d = 121832886702415731577073962957377780195510499965398469843281
 
 
 # formula for deciphering text
-result = pow(c, d, N)
-print(result)
+deciphering_text = pow(c, d, N)
+print(deciphering_text)
