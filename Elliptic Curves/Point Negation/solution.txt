@@ -1,5 +1,5 @@
 Q(x1,−y1modp) (inverse of x)
 
-https://cryptohack.org/static/img/ECClines.svg (how do I know x is 8045? Check the graph and question)
+https://cryptohack.org/static/img/ECClines.svg (how do I know x is 8045? Check the graph and question!)
 
 crypto{8045, 2803}
