@@ -1,0 +1,17 @@
+how to calculate modular arithmetic/modulo?
+
+Easy.
+
+1) 11 ≡ x mod 6
+2) 8146798528947 ≡ y mod 17
+
+Find the smaller of the two integers.
+
+1) x = 11 mod 6 = 5
+2 ) y = 814679852947 mod 17 = 4
+
+
+Answer: 4 
+
+
+
