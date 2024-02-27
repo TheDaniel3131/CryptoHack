@@ -1,3 +1,5 @@
+#We observe that the legendre symbol ( a p ) = 1 , so a is a quadratic residue mod p , and all powers of a will be too. When the encrypted bit b = 0 , we instead store − ( a e ) , which will not be a quadratic residue, since ( − 1 p ) = ( − 1 ) p − 1 2 = − 1 (since p ≡ 3 ( mod 4 ) ).
+
 from Crypto.Util.number import long_to_bytes
 
 def legendre_symbol(s, p):
